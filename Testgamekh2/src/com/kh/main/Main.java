@@ -1,11 +1,7 @@
 package com.kh.main;
 
 import java.util.Scanner;
-import com.kh.main.GangBoonGame;
-import com.kh.main.JihuiGame;
-import com.kh.main.JiwoongGame;
-import com.kh.main.MinKyuGame;
-import com.kh.main.YerinGame;
+
 
 public class Main{
 	
